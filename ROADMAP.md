@@ -10,3 +10,4 @@
 
 - Read-Only UI (Possible integration with Argo UI).
 
+- Onboarding new eventSources.
